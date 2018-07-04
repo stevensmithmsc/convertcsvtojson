@@ -1,0 +1,23 @@
+{
+  "name": "convertcsvtojson",
+  "version": "1.0.0",
+  "description": "script to convert csv files to json files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevensmithmsc/convertcsvtojson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevensmithmsc/convertcsvtojson/issues"
+  },
+  "homepage": "https://github.com/stevensmithmsc/convertcsvtojson#readme",
+  "dependencies": {
+    "csvtojson": "^2.0.4"
+  }
+}
